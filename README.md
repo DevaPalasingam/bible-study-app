@@ -1,8 +1,8 @@
 # Bible Study App
 
-I've decided to try to improve my coding skills by combining it with another skill that I want to grow in, studying the Bible. After having a long conversation with ChatGPT, I've determined that the tech-stack that I want to spend time learning is Vue, Tailwind, and Firebase. ChatGPT even gave me a Phased-approach to how I can build up my skills in those technologies as I develop this app. I'm not sure if I'll ever actually finish this app, I might get bored and do something else. But here's at least the general direction that I'm intending to start.
+I've decided to try to improve my coding skills by combining it with another skill that I want to grow in, studying the Bible. After having a long conversation with ChatGPT, I've determined that the tech-stack that I want to spend time learning is Vue with TypeScript, Tailwind, and Firebase. ChatGPT even gave me a phased approach to how I can build up my skills in those technologies as I develop this app. I'm not sure if I'll ever actually finish this app, I might get bored and do something else. But here's at least the general direction that I'm intending to start.
 
-This is a Bible Study app project that aims to provide users with a platform to study the Bible, take notes, and create study plans. The project will be built using **_Vue.js_** for the front-end, **_Tailwind CSS_** for styling, and **_Firebase_** for backend and data storage.
+This is a Bible Study app project that aims to provide users with a platform to study the Bible, take notes, and create study plans. The project will be built using **_Vue.js_** with **_TypeScript_** for the front-end, **_Tailwind CSS_** for styling, and **_Firebase_** for backend and data storage.
 
 ## Project Phases and Concepts to Review
 
