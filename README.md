@@ -20,7 +20,8 @@ This is a Bible Study app project that aims to provide users with a platform to 
 
 **TypeScript Concepts to Learn:**
 
-- Basic Types: Learn about TypeScript's basic data types like `string`, `number`, `boolean`, etc.
+✅ Basic Types: Learn about TypeScript's basic data types like `string`, `number`, `boolean`, etc.
+
 - Type Annotations: Understand how to add type annotations to variables and function parameters.
 - Interfaces: Learn how to define interfaces to describe object shapes and use them in Vue components.
 
