@@ -26,7 +26,8 @@ This is a Bible Study app project that aims to provide users with a platform to 
 
 **Tailwind CSS Concepts to Review:**
 
-- Understanding Tailwind utility classes for basic styling
+✅ Understanding Tailwind utility classes for basic styling
+
 - Layout and Responsive Design
 
 **Firebase Concepts to Review:**
